@@ -6,14 +6,14 @@ Partiendo del repositorio público siguiente:
 
 ---
 
-## Apartado 1
+## Apartado 1 (3 puntos)
 
 Crea una app sencilla utilizando el lenguaje **Python** con temas relacionados con la **ciberseguridad** como puede ser la **criptografía**.  
 Realiza **4 test unitarios** para esta app.
 
 ---
 
-## Apartado 2
+## Apartado 2 (2 puntos)
 
 Crea un **script en bash** que nos permita obtener:
 
@@ -25,11 +25,10 @@ Todos estos datos deben verse en un **mensaje único** que los contenga a todos 
 
 ---
 
-## Apartado 3
+## Apartado 3 (2,5 puntos)
 
 Obtén un **pantallazo** de tus resultados obtenidos después de haber realizado el tutorial de la URL  
-[https://learngitbranching.js.org/](https://learngitbranching.js.org/)  
-que se solicitaba en la práctica de Aules **ACT_RA1_4: Solidity + GIT**.
+[https://learngitbranching.js.org/](https://learngitbranching.js.org/) que se solicitaba en la práctica de Aules **ACT_RA1_4: Solidity + GIT**.
 
 Hay que obtener un pantallazo tanto para la pestaña **Main o Principal** como para la de **Remote o Remota**.  
 En el pantallazo tiene que quedar claro de alguna forma que **el pantallazo lo hemos obtenido nosotros** y no es una imagen aleatoria.
@@ -40,16 +39,15 @@ A modo de ejemplo:
 
 ---
 
-## Apartado 4
+## Apartado 4 (2,5 puntos)
 
-Obtén un **pantallazo** de tus resultados obtenidos después de haber realizado el tutorial  
-**Solidity: Beginner to Intermediate Smart Contracts**  
-de la práctica de Aules **ACT_RA1_4: Solidity + GIT**.
+Obtén un **pantallazo** de tus resultados obtenidos después de haber realizado el tutorial **Solidity: Beginner to Intermediate Smart Contracts** de la práctica de Aules **ACT_RA1_4: Solidity + GIT**.
 
 Al igual que en el apartado anterior, tiene que quedar claro que el pantallazo **se ha obtenido por nosotros** de nuestros resultados y no de otra fuente.
 
 Realiza un **Smart Contract privado propio** que sea el inicio de una cadena que utilice los **árboles de decisión de Merkle (Merkle Trees)**.
 
+---
 ---
 
 ## Consideraciones para la entrega
