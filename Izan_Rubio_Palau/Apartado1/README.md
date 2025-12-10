@@ -94,11 +94,11 @@ Los tests comprueban:
 
 1. Cálculo correcto del hash de un archivo existente.
 
-1. Manejo de archivos inexistentes.
+2. Manejo de archivos inexistentes.
 
-1. Hash de archivos vacíos.
+3. Hash de archivos vacíos.
 
-1. Detección de diferencias entre archivos con contenido distinto.
+4. Detección de diferencias entre archivos con contenido distinto.
 
 ### Instalación de pytest
 
