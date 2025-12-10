@@ -35,13 +35,13 @@ En un entorno real, `verify` devolvería `true` si se proporciona la hoja y el p
 ## Despliegue y uso
 
 1. Abrir **Remix IDE (https://remix.ethereum.org/)**.
-2. **Crear** un nuevo archivo `.sol` con el código del contrato.
+2. **Crear** un nuevo archivo `.sol` con el código del contrato.  
 ![File](FileSOL.png)
-3. **Compilar** el contrato desde la pestaña Solidity Compiler
+3. **Compilar** el contrato desde la pestaña Solidity Compiler.  
 ![Compile](Compile.png)
-4. En la pestaña **Deploy & Run Transactions**, seleccionar el entorno JavaScript VM (Cancun) y desplegar el contrato.
+4. En la pestaña **Deploy & Run Transactions**, seleccionar el entorno JavaScript VM (Cancun) y desplegar el contrato.  
 ![Deploy](DeployRun.png)
-5. Una vez hecho el deploy, ya podremos **interactuar con el contrato**.
+5. Una vez hecho el deploy, ya podremos **interactuar con el contrato**.  
 ![Interaction](Interaction.png)
 
 ## Conclusión
