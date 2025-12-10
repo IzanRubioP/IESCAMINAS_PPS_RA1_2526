@@ -1,8 +1,8 @@
-## Práctica Puntuable RA1 – Resumen General
+# Práctica Puntuable RA1 – Resumen General
 
 Este repositorio contiene la entrega completa de las actividades prácticas correspondientes al **Resultado de Aprendizaje 1 (RA1)** de la asignatura **Puesta en Producción Segura.**
 
-### Datos del alumno
+## Datos del alumno
 
 - **Nombre:** Izan Rubio Palau
 - **Asignatura:** Puesta en Producción Segura
@@ -10,7 +10,7 @@ Este repositorio contiene la entrega completa de las actividades prácticas corr
 - **Curso académico:** 2025 / 2026
 - **Actividad:** Práctica Puntuable RA1 (ACT_RA1_5)
 
-### Contenido de la entrega
+## Contenido de la entrega
 
 La carpeta principal contiene los siguientes apartados:
 
